@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered'>
+    <pages>
+        <page name='WorkingArea'/>
+        <page name='Presentation'/>
+        <page name='People'/>
+        <page name='Contacts'/>
+        <page name='Notepad'/>
+    </pages>
+</playground>
