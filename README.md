@@ -28,7 +28,7 @@ As in original form:
 > -- Andrei
 
 > Codeway a fost menit să fie locul unde speakerii nu sunt doar programatori, ci artiști și savanți. Pasiunea și dedicația lor creează o conferință care te surprinde și îți schimbă modul de lucru în fiecare an.
-> -- Dan
+> -- Dan  
 
 ### Licence
 
