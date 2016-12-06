@@ -27,6 +27,9 @@ As in original form:
 > Mă bucur că avem suportul YOPESO și am putut organiza și a doua ediție CodeWăy, mai mare, mai variată și cu la fel de mult suflet. Invățăm multe lucruri la fiecare ediție, și sperăm ca fiecare ediție ulterioară să fie din ce în ce mai reușită. Sper că participanții învață la fel de multe, iar CodeWăy ne ajută, pe noi toți, să devenim specialiști mai buni.  
 > -- Andrei
 
+> Codeway a fost menit să fie locul unde speakerii nu sunt doar programatori, ci artiști și savanți. Pasiunea și dedicația lor creează o conferință care te surprinde și îți schimbă modul de lucru în fiecare an.
+> -- Dan
+
 ### Licence
 
 [Apache v2.0](LICENSE.md) licensed.
