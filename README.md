@@ -30,6 +30,11 @@ As in original form:
 > CodeWăy a fost menit să fie locul unde speakerii nu sunt doar programatori, ci artiști și savanți. Pasiunea și dedicația lor creează o conferință care te surprinde și îți schimbă modul de lucru în fiecare an.  
 > -- Dan
 
+> Pentru organizatori CodeWăy a fost o sansa sa iesim din "intuneric" in lumina si sa ne chinuim firele introverte un pic. 
+Insa, considerind ca nici o realizare mareata nu se atinge usor, in final cred ca efortul nostru nu a fost in vin.
+> Eram placut surprins sa vad ca sala cu talk-uri avansate a fost mereu plina. Ceea ce-mi pare un semn foarte pozitiv. Lumea cauta informatie noua si ii e sete de provocari noi.
+Sper ca urmatoarele iteratii a acestei conferinte sa fi si mai informative si mai provocatoare. Fiti siguri ca vom depune si mai mult efort anul viitor 😬  
+> -- Serghei
 ### Licence
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
