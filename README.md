@@ -33,7 +33,7 @@ As in original form:
 > Pentru organizatori, CodeWăy a fost o sansa sa iesim din "intuneric" in lumina si sa ne chinuim firele introverte un pic. 
 Insa, considerind ca nici o realizare mareata nu se atinge usor, in final cred ca efortul nostru nu a fost in zadar.
 > Eram placut surprins sa vad ca sala cu talk-uri avansate a fost mereu plina. Ceea ce-mi pare un semn foarte pozitiv. Lumea cauta informatie noua si ii e sete de provocari noi.
-Sper ca urmatoarele iteratii a acestei conferinte sa fi si mai informative si mai provocatoare. Fiti siguri ca vom depune si mai mult efort anul viitor 😬  
+Sper ca urmatoarele iteratii a acestei conferinte vor fi si mai informative si mai provocatoare. Fiti siguri ca vom depune si mai mult efort anul viitor 😬  
 > -- Serghei
 ### Licence
 
